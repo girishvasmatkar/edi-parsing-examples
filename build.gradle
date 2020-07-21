@@ -25,7 +25,7 @@ repositories {
 dependencies {
     // This dependency is used by the application.
     implementation 'com.google.guava:guava:28.0-jre'
-    implementation 'com.walmartlabs.x12:gozer:28.0.2.1'
+    implementation 'com.walmartlabs.x12:gozer:0.2.1'
 
     // Use JUnit test framework
     testImplementation 'junit:junit:4.12'
